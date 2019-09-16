@@ -1,0 +1,14 @@
+body {background-color: aliceblue;
+
+}
+hr  { background-color: aliceblue;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: lightgrey;
+  border-width: 8px;
+  width: 4%
+}
+
+img {height: 300px}
+h1 {color: #62929A}
+h3 {color: #62929A}
